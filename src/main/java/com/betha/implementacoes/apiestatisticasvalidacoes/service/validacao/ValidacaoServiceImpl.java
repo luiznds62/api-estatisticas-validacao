@@ -1,4 +1,4 @@
-package com.betha.implementacoes.apiestatisticasvalidacoes.service.product;
+package com.betha.implementacoes.apiestatisticasvalidacoes.service.validacao;
 
 import com.betha.implementacoes.apiestatisticasvalidacoes.api.v1.exceptions.BadRequestException;
 import com.betha.implementacoes.apiestatisticasvalidacoes.api.v1.exceptions.NotFoundException;

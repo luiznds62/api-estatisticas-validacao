@@ -3,7 +3,7 @@ package com.betha.implementacoes.apiestatisticasvalidacoes.api.v1.resources;
 import com.betha.implementacoes.apiestatisticasvalidacoes.api.v1.assembler.ValidacaoModelAssembler;
 import com.betha.implementacoes.apiestatisticasvalidacoes.api.v1.model.ValidacaoModel;
 import com.betha.implementacoes.apiestatisticasvalidacoes.domain.orm.Validacao;
-import com.betha.implementacoes.apiestatisticasvalidacoes.service.product.ValidacaoService;
+import com.betha.implementacoes.apiestatisticasvalidacoes.service.validacao.ValidacaoService;
 import lombok.AllArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.web.PagedResourcesAssembler;
